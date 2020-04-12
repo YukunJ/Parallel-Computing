@@ -16,6 +16,8 @@ Last edited on Sun March 8 10:52:13 am 2020
 
           To implement a parallel divisibilty checker
 	  
-@innovative: after several attempts, I decided to use bit-wise manipulation
+@innovative: 
+
+	after several attempts, I decided to use bit-wise manipulation
 						 to achieve the best performance enhancement
 */
