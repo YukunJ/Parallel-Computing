@@ -6,4 +6,6 @@ This folder is for the course <Special Topic: Parallel Computing> at NYU Courant
 
    Purpose: 
    
-               implement a parallel code to compute the number lying in range 2 to N disivisible by a or b or c, where N a b                       c is command line input provided by the user.
+               implement a parallel code to compute the number lying in range 2 to N 
+               that is disivisible by a or b or c
+               where N a b c is command line input provided by the user.
