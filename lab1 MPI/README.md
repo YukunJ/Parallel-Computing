@@ -19,5 +19,5 @@ Last edited on Sun March 8 10:52:13 am 2020
 @innovative: 
 
 	after several attempts, I decided to use bit-wise manipulation
-						 to achieve the best performance enhancement
+	to achieve the best performance enhancement
 */
