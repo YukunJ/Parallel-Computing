@@ -10,7 +10,7 @@ This folder is for the course <Special Topic: Parallel Computing> at NYU Courant
                that is disivisible by a or b or c
                where N a b c is command line input provided by the user.
 
-### Lab1 : OpenMP Language: C
+### Lab2 : OpenMP Language: C
 
    Purpose: 
    
