@@ -1,6 +1,8 @@
 # Parallel Computing Spring 2020
 
 This folder is for the course <Special Topic: Parallel Computing> at NYU Courant Spring 2020, when I was a junior undergrad student.
+   
+Feel free to email me at jy2363@nyu.edu for any more information
 
 ### Lab1 : MPI Language: C
 
