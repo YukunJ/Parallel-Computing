@@ -1,4 +1,4 @@
-# Parallel-Computing-Spring-2020
+# Parallel Computing Spring 2020
 
 This folder is for the course <Special Topic: Parallel Computing> at NYU Courant Spring 2020.
 
