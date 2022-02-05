@@ -4,6 +4,8 @@ This folder is for the course <Special Topic: Parallel Computing> at NYU Courant
    
 Feel free to email me at jy2363@nyu.edu for any more information
 
+---
+   
 ### Lab1 : MPI Language: C
 
    Purpose: 
